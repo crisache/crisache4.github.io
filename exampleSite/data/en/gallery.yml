@@ -2,7 +2,7 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: 'Gallery '
+  title: 'Gallery1'
   content:
   button:
     enable: true
