@@ -21,5 +21,5 @@ This is where the text goes
 
 test 1 
 
-![toto](/images/blog/blog-post-5.jpg)
+![toto](/images/noema.jpg)
 
