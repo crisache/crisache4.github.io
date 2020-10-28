@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "Instrumentation"
 description = "Instrumentation"
-image = "/images/Rx_cabin.png"
+image = "/images/Rx_cabin.jpg"
 title = "Instrumentation"
 [[information]]
 info = "will go here"
@@ -17,7 +17,7 @@ label = "Name"
 +++
 This is where the text goes
 
-![hello](/images/Rx_cabin.jpg)
+![hello](/images/fend_fig10_left.jpg)
 
 test 1 
 
