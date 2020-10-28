@@ -27,23 +27,14 @@ portfolio:
     link: project
 service:
   enable: true
-cta:
-  enable: true
-  bg_image: images/grenoble.jpg
-  title: to contact me
-  content: 'Please fill the form '
-  button:
-    enable: true
-    label: Pour me contacter
-    link: contact
 funfacts:
   enable: true
-  title: Some observatories
+  title: Fun Facts
   description: Some examples of observatories located on extreme locations
   funfact_item:
   - icon: ion-stats-bars
     name: Instruments commissioned
-    count: "13"
+    count: "14"
   - icon: ion-leaf
     name: Articles Written
     count: "98"
@@ -52,7 +43,7 @@ funfacts:
     count: "125"
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: "200"
+    count: "78"
   testimonial_slider:
   - name: 'Herschel satellite '
     image: images/herschel.jpg
@@ -70,4 +61,13 @@ funfacts:
     image: images/noema.jpg
     designation: 'millimeter interferometer '
     content: Largest millimeter interferometer located in the northern hemisphere.
-      It is comprised of 10 atennas of 15m diameter each
+      It is comprised of currently 11 atennas of 15m diameter each
+cta:
+  enable: true
+  bg_image: images/grenoble.jpg
+  title: to contact me
+  content: 'Please fill the form '
+  button:
+    enable: true
+    label: Pour me contacter
+    link: contact

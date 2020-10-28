@@ -7,14 +7,14 @@ theme = "airspace-hugo"
 title = "Christophe Risacher"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Themefisher] - adapted by C. Risacher"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Themefisher]- adapté par C. Risacher"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -60,10 +60,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "Christophe Risacher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "c.risacher@icloud.com"
 google_analitycs_id = ""
 location = "Grenoble, France"
 logo = "images/cr_logo2.png"
@@ -77,7 +77,7 @@ map_longitude = "5.760592"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = false
-label = "Get A Quote"
+label = "Infos"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
