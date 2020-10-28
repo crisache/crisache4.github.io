@@ -2,7 +2,7 @@
 bg_image = "/images/fend_fig2.jpg"
 category = "Instrumentation"
 description = "Receiver development"
-image = "/images/fend_fig10_left.png"
+image = "/images/fend_fig10_left.jpg"
 title = "Instrumentation2"
 [[information]]
 info = "Quartz"
