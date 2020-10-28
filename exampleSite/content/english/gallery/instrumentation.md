@@ -1,19 +1,20 @@
 +++
-bg_image = "/images/grenoble.jpg"
+bg_image = "/images/fend_fig2.jpg"
 category = "Instrumentation"
-description = "Instrumentation"
-image = "/images/Rx_cabin.jpg"
-title = "Instrumentation"
+description = "Receiver development"
+image = "/images/fend_fig10_left.png"
+title = "Instrumentation2"
 [[information]]
-info = "will go here"
-label = "Links"
+info = "Quartz"
+label = "technology"
 [[information]]
-info = "as of today"
-label = "Date"
+info = "Aluminium or Gold"
+label = "metallization"
 [[information]]
-info = "Is that"
-label = "Name"
+info = "3 to 7 layers"
+label = "design"
 
++++
 +++
 This is where the text goes
 
