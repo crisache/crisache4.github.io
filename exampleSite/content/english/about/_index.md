@@ -1,15 +1,8 @@
 ---
-title: About me
-email: c.risacher@icloud.com
-bg_image: images/feature-bg.jpg
-social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
-- icon: ion-social-pinterest-outline
-  link: "#"
-
+title: "About me"
+description: "Overview of my research activities"
+draft: false
+bg_image: "images/featue-bg.jpg"
 ---
 
 
