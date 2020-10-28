@@ -1,14 +1,7 @@
 ---
 title: Gallery
-email: c.risacher@icloud.com
-bg_image: images/feature-bg.jpg
-social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
-- icon: ion-social-pinterest-outline
-  link: "#"
+description: Latest project under development
+bg_image: "/images/fend_fig2.jpg"
 
 ---
 
