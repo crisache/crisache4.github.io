@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "Instrumentation"
 description = "Instrumentation"
-image = "/images/apex.png"
+image = "/images/Rx_cabin.png"
 title = "Instrumentation"
 [[information]]
 info = "will go here"
