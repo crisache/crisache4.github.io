@@ -1,6 +1,8 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Instrumentation development
+description: Latest project under development
+bg_image: "/images/fend_fig2.jpg"
+image: "/images/fend_fig7.jpg"
+
+
 ---

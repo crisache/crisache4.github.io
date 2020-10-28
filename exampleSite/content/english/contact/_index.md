@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: How to contact me
+description: Please use the following form sheet
+bg_image: images/featue-bg.jpg
+
 ---

@@ -1,6 +1,15 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: About me
+email: c.risacher@icloud.com
+bg_image: images/feature-bg.jpg
+social:
+- icon: ion-social-facebook-outline
+  link: "#"
+- icon: ion-social-twitter-outline
+  link: "#"
+- icon: ion-social-pinterest-outline
+  link: "#"
+
 ---
+
+
