@@ -29,7 +29,7 @@ name = "Projects"
 weight = 2
 [[menu.footer]]
 URL = "opportunity"
-name = "opportunities"
+name = "Opportunities"
 weight = "5"
 [[menu.footer]]
 URL = "contact"

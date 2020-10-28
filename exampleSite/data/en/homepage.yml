@@ -19,8 +19,8 @@ about:
 portfolio:
   enable: true
   bg_image: images/sofia_2.jpg
-  title: How to reach me
-  content: " address 1 is : \n\n contact per email /  "
+  title: List of projects
+  content:
   button:
     enable: true
     label: View Works
@@ -71,3 +71,5 @@ cta:
     enable: true
     label: Pour me contacter
     link: contact
+
+---
