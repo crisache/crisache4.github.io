@@ -46,11 +46,11 @@ weight = 1
 [[menu.main]]
 URL = "project"
 name = "Projects"
-weight = 3
-[[menu.main]]
-URL = "publications"
-name = "Publications"
 weight = 2
+[[menu.main]]
+URL = "gallery"
+name = "Gallery"
+weight = 3
 [[menu.main]]
 URL = "opportunity"
 name = "Opportunities"
