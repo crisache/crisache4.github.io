@@ -1,0 +1,122 @@
+baseURL = "https://crisache.netlify.app"
+disableLanguages = []
+disqusShortname = ""
+paginate = "4"
+summaryLength = "30"
+theme = "airspace-hugo"
+title = "Christophe Risacher"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = "3"
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.footer]]
+URL = "project"
+name = "Projects"
+weight = 2
+[[menu.footer]]
+URL = "opportunity"
+name = "opportunities"
+weight = "5"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
+URL = "#"
+name = "Home"
+weight = 1
+[[menu.main]]
+URL = "about"
+name = "Vitae"
+weight = 1
+[[menu.main]]
+URL = "project"
+name = "Projects"
+weight = 3
+[[menu.main]]
+URL = "publications"
+name = "Publications"
+weight = 2
+[[menu.main]]
+URL = "opportunity"
+name = "Opportunities"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[params]
+author = "Themefisher"
+contact_form_action = "#"
+description = "This is meta description"
+email = "demo@email.com"
+google_analitycs_id = ""
+location = "Grenoble, France"
+logo = "images/cr_logo2.png"
+mobile = ""
+multi_author = false
+[params.gmap]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "45.193682"
+map_longitude = "5.760592"
+map_marker = "images/marker.png"
+[params.nav_button]
+enable = false
+label = "Get A Quote"
+link = "contact"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/Ionicons/css/ionicons.min.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = true
+preloader = ""
+[[params.social]]
+icon = "ion-settings"
+link = "#"
+[[params.social]]
+icon = "ion-social-linkedin-outline"
+link = "https://www.linkedin.com/in/christopherisacher"
+[[params.social]]
+icon = "ion-compose"
+link = "#"
+[[params.social]]
+icon = "ion-planet"
+link = "https://scholar.google.cl/citations?hl=en&user=KhlsDC8AAAAJ"
+[[params.social]]
+icon = "ion-images"
+link = "https://www.researchgate.net/profile/Christophe_Risacher"
+[[params.social]]
+icon = "ion-social-tux"
+link = "https://github.com/crisache/"
