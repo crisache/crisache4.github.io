@@ -1,6 +1,6 @@
 ---
 title: Instrumentation development
-description: Latest project under development
+description: High resolution spectroscopy
 bg_image: "/images/fend_fig2.jpg"
 
 ---
