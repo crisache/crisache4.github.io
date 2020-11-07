@@ -3,7 +3,7 @@ bg_image = "/images/grenoble.jpg"
 category = "telescopes"
 description = "mm interferometer"
 image = "/images/noema.jpg"
-title = "SOFIA observatory"
+title = "NOEMA observatory"
 [[information]]
 info = "Plateau de Bure (2550m)"
 label = "Site"
