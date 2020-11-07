@@ -67,24 +67,18 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: Goals
-    content: git, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Mission
-    content: di cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Approach
-    content: quuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+  - name: Instrumentation
+    content: I enjoy developing and operating astronomical instrumentation on the most extreme
+    locations on Earth and space. Since 1998, I worked with ground-based telescopes such as the
+    IRAM 30m in southern Spain, the NOEMA interferometer in the French Alps, the APEX 12m telescope
+    on the Chilean Chajnantor Plateau at 5100m, with the airborne telescope installed on a modified
+    Boeing 747 (SOFIA) and with space missions (past Herschel/HIFI and future such as Origins
+    Space Telescope).
+  - name: Observations
+    content: On the astronomical observational side, I have been involved in dozens of projects
+    in various research fields, to mention a few, studying low-mass and high-mass star formation
+    in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
+    envelopes of evolved stars.
+
 cta:
   enable: false
