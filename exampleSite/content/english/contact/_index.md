@@ -1,6 +1,6 @@
 ---
 title: How to contact me
-description: Other links
+description: 
 bg_image: images/fend_fig7.jpg
 
 ---
