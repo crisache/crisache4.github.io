@@ -18,22 +18,22 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: "349"
+    count: "25"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
-    count: "35000"
+    count: "25000"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
+    name: Publications
+    count: "98"
+  - icon: ion-ios-wineglass-outlinex
+    name: Awards
     count: "10"
   - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
+    name: h-index
+    count: "35"
   - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+    name: Instruments commissioned
+    count: "13"
 features:
   enable: false
   title: We are indepented Design & Development Agency
