@@ -19,12 +19,12 @@ about:
 portfolio:
   enable: true
   bg_image: images/sofia_2.jpg
-  title: List of projects
+  title: Gallery of Observatories and Instrumentation
   content:
   button:
     enable: true
-    label: View Works
-    link: project
+    label: Gallery
+    link: gallery
 service:
   enable: true
 funfacts:
