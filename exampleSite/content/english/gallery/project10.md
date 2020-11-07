@@ -25,7 +25,7 @@ View of the SOFIA airplane
 
 View of the SOFIA airplane
 
-![toto](/images/sofia_3.jpg)
+![toto](/images/sofia_4.jpg)
 
 View of the NOEMA array with 10 antennas: 
 
