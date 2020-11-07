@@ -16,3 +16,18 @@ label = "IF range"
 
 +++
 
+View of the upGREAT array: 
+
+![toto](/images/sofia_5.png)
+
+View of the upGREAT array: 
+
+![toto](/images/Fig26.png)
+
+View of the upGREAT array: 
+
+![toto](/images/Fig21.png)
+
+View of the upGREAT array: 
+
+![toto](/images/Fig23.png)
