@@ -18,3 +18,7 @@ info = "2004-2008"
 label = "Years of operation"
 +++
 
+View of the APEX-2a receiver 
+
+![toto](/images/apex2a_end.jpg)
+
