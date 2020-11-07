@@ -18,7 +18,7 @@ label = "IF range"
 
 View of the upGREAT array: 
 
-![toto](/images/sofia_5.png)
+![toto](/images/sofia_5.jpg)
 
 View of the upGREAT array: 
 
@@ -26,7 +26,7 @@ View of the upGREAT array:
 
 View of the upGREAT array: 
 
-![toto](/images/Fig21.png)
+![toto](/images/Fig21.jpg)
 
 View of the upGREAT array: 
 
