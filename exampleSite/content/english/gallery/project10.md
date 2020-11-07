@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "telescopes"
 description = "airborne observatory"
-image = "/images/sofia_1.png"
+image = "/images/sofia_1.jpg"
 title = "SOFIA observatory"
 [[information]]
 info = "Stratosphere (41000-45000 feet or 11-14km)"
