@@ -15,11 +15,22 @@ info = "Is that"
 label = "Name"
 
 +++
-This is where the text goes
+View of the SOFIA airborne observatory
 
-![hello](/images/sofia_2.jpg)
+![hello](/images/sofia_1.jpg)
 
-test 1 
+View of the SOFIA airplane
+
+![toto](/images/sofia_2.jpg)
+
+View of the SOFIA airplane
+
+![toto](/images/sofia_3.jpg)
+
+View of the NOEMA array with 10 antennas: 
 
 ![toto](/images/noema.jpg)
 
+View of a NOEMA antenna:
+
+![toto](/images/noema_2.jpg)
