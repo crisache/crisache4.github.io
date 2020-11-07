@@ -1,6 +1,6 @@
 ---
-title: Gallery2
-description: Latest project under development
+title: Gallery
+description: Observatories and instrumentation
 bg_image: "/images/fend_fig2.jpg"
 
 ---
