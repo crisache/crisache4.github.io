@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "THz arrays"
 description = "upGREAT THz arrays"
-image = "/images/uogreat1.png"
+image = "/images/upgreat1.png"
 title = "THz arrays"
 [[information]]
 info = "2x7 pixels"
