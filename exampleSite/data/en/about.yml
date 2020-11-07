@@ -69,19 +69,19 @@ mission_vision:
   tabs:
   - name: Instrumentation
     content: I enjoy developing and operating astronomical instrumentation on the most extreme
-    locations on Earth and space. Since 1998, I worked with ground-based telescopes such as the
-    IRAM 30m in southern Spain, the NOEMA interferometer in the French Alps, the APEX 12m telescope
-    on the Chilean Chajnantor Plateau at 5100m, with the airborne telescope installed on a modified
-    Boeing 747 (SOFIA) and with space missions (past Herschel/HIFI and future such as Origins
-    Space Telescope).
+     locations on Earth and space. Since 1998, I worked with ground-based telescopes such as the
+     IRAM 30m in southern Spain, the NOEMA interferometer in the French Alps, the APEX 12m telescope
+     on the Chilean Chajnantor Plateau at 5100m, with the airborne telescope installed on a modified
+     Boeing 747 (SOFIA) and with space missions (past Herschel/HIFI and future such as Origins
+     Space Telescope).
   - name: Observations
     content: On the astronomical observational side, I have been involved in dozens of projects
-    in various research fields, to mention a few, studying low-mass and high-mass star formation
-    in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
-    envelopes of evolved stars.
+     in various research fields, to mention a few, studying low-mass and high-mass star formation
+     in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
+     envelopes of evolved stars.
   - name: Approach
     content: In my view, instrumentalists should get involved in science projects and observations.
-    If you build an instrument, it is priceless after that to understand science project and subsequent
-    data analysis, even better carrying out the observations yourself.
+     If you build an instrument, it is priceless after that to understand science project and subsequent
+     data analysis, even better carrying out the observations yourself.
 cta:
   enable: false
