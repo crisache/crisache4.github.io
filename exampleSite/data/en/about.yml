@@ -80,6 +80,8 @@ mission_vision:
     in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
     envelopes of evolved stars.
   - name: Approach
-    content:
+    content: In my view, instrumentalists should get involved in science projects and observations.
+    If you build an instrument, it is priceless after that to understand science project and subsequent
+    data analysis, even better carrying out the observations yourself.
 cta:
   enable: false
