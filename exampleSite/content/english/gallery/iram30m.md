@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "telescopes"
 description = "for millimetre astronomy"
-image = "/images/iram30m.jpg"
+image = "/images/iram30m.png"
 title = "IRAM 30m telescope"
 [[information]]
 info = "2900m altitude"
@@ -18,7 +18,7 @@ label = "Characteristics"
 
 View of the NOEMA array with 10 antennas: 
 
-![toto](/images/irm30m.jpg)
+![toto](/images/iram30m.png)
 
 View of a NOEMA antenna:
 
