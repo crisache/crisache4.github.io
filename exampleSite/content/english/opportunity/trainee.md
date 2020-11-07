@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/fend_fig2.jpg"
+bg_image = "/images/fend_fig7.jpg"
 category = "Master of Science trainee"
 description = "Development of instrumentation"
 title = "Trainee positions"

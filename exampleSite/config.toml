@@ -24,8 +24,8 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.footer]]
-URL = "about"
-name = "Vitae"
+URL = "project"
+name = "Projects"
 weight = 2
 [[menu.footer]]
 URL = "opportunity"
