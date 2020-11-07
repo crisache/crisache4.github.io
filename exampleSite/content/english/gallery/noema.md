@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/grenoble.jpg"
-category = "telescopes"
+category = "NOEMA"
 description = "mm interferometer"
 image = "/images/noema.jpg"
 title = "NOEMA observatory"

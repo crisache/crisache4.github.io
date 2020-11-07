@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/fend_fig2.jpg"
-category = "Instrumentation"
+category = "APEX"
 description = "telescope at 5100m "
 image = "/images/apex.png"
 title = "APEX telescope"

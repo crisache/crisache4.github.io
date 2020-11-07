@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/grenoble.jpg"
-category = "telescopes"
+category = "SOFIA"
 description = "airborne observatory"
 image = "/images/sofia_1.jpg"
 title = "SOFIA observatory"

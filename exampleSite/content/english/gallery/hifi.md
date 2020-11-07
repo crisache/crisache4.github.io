@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/grenoble.jpg"
-category = "telescopes"
+category = "HIFI"
 description = "Space observatory"
 image = "/images/herschel1.jpg"
 title = "Herschel/HIFI observatory"
