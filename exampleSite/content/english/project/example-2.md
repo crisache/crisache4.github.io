@@ -1,9 +1,9 @@
 +++
 bg_image = "/images/fend_fig7.jpg"
-category = "Hardware"
-description = "mm wave instrumentation"
+category = "Phase Monitoring"
+description = "Phase Monitoring"
 image = "/images/fend_fig7.jpg"
-title = "HEMT devices"
+title = "Phase Monitoring"
 [[information]]
 info = "4-8 GHz"
 label = "bandwidth "
