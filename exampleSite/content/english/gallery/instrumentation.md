@@ -1,9 +1,9 @@
 +++
 bg_image = "/images/fend_fig2.jpg"
 category = "Instrumentation"
-description = "Receiver development"
+description = "telescope at 5100m "
 image = "/images/fend_fig10_left.jpg"
-title = "Instrumentation2"
+title = "APEX telescope"
 [[information]]
 info = "Quartz"
 label = "technology"

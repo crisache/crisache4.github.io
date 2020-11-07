@@ -1,9 +1,9 @@
 +++
 bg_image = "/images/grenoble.jpg"
 category = "telescopes"
-description = "telescope"
+description = "airborne observatory"
 image = "/images/apex.png"
-title = "Observatories"
+title = "SOFIA observatory"
 [[information]]
 info = "will go here"
 label = "Links"
