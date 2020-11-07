@@ -19,7 +19,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/sofia_2.jpg
-  title: Gallery of Observatories and Instrumentation
+  title: Observatories and Instrumentation
   content:
   button:
     enable: true
