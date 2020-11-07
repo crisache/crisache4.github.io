@@ -63,7 +63,7 @@ funfacts:
     content: Largest millimeter interferometer located in the northern hemisphere.
       It is comprised of currently 11 atennas of 15m diameter each
 cta:
-  enable: true
+  enable: false
   bg_image: images/grenoble.jpg
   title: to contact me
   content: 'Please fill the form '
