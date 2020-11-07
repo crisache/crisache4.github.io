@@ -5,7 +5,7 @@ about:
   content2:
   button2:
     enable: true
-    label: CV as of 2021-11-01
+    label: Publication list as of 2021-11-01
     link: "about/pub_list_refereed.html"
   enable: true
   image: images/cv.jpg
