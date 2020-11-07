@@ -2,7 +2,7 @@
 bg_image = "/images/fend_fig2.jpg"
 category = "Instrumentation"
 description = "telescope at 5100m "
-image = "/images/fend_fig10_left.jpg"
+image = "/images/apex.png"
 title = "APEX telescope"
 [[information]]
 info = "Quartz"

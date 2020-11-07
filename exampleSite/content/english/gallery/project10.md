@@ -2,7 +2,7 @@
 bg_image = "/images/grenoble.jpg"
 category = "telescopes"
 description = "airborne observatory"
-image = "/images/apex.png"
+image = "/images/sofia_1.png"
 title = "SOFIA observatory"
 [[information]]
 info = "will go here"
