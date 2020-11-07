@@ -2,7 +2,6 @@
 bg_image = "/images/fend_fig2.jpg"
 category = "Doctorate studies"
 description = "Development of instrumentation"
-image = "/images/doctorate.jpeg"
 title = "Doctorate positions"
 [[information]]
 info = "2021"
