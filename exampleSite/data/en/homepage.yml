@@ -6,7 +6,7 @@ banner:
   content: Astronomical instrumentation
   button:
     enable: true
-    label: Vitae
+    label: About me
     link: about
 about:
   enable: true
@@ -51,16 +51,16 @@ funfacts:
     content: HIFI was the heterodyne instrument onboard the Herschel satellite
   - name: APEX Telescope
     image: images/apex.png
-    designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
+    designation: 12m submm telescope located on the Chajnantor Plateau at 5100m
     content: 'Pathfinder telescope which started operation in 2005 '
   - name: SOFIA telescope
     image: images/sofia_2.jpg
     designation: Infrared airborne telescope
-    content: 2.5 m telescope mountrd on an a Boeing 747 operated by NASA - DLR
+    content: 2.5 m telescope mounted on an a Boeing 747 operated by NASA - DLR
   - name: NOEMA observatory
     image: images/noema.jpg
     designation: 'millimeter interferometer '
-    content: Largest millimeter interferometer located in the northern hemisphere.
+    content: Largest millimeter interferometer located in the Northern hemisphere.
       It is comprised of currently 11 atennas of 15m diameter each
 cta:
   enable: false
