@@ -79,6 +79,7 @@ mission_vision:
     in various research fields, to mention a few, studying low-mass and high-mass star formation
     in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
     envelopes of evolved stars.
-
+  - name: Approach
+    content:
 cta:
   enable: false
