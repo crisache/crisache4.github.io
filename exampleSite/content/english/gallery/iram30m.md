@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/grenoble.jpg"
-category = "telescopes"
+category = "IRAM30m"
 description = "for millimetre astronomy"
 image = "/images/iram30m.png"
 title = "IRAM 30m telescope"
