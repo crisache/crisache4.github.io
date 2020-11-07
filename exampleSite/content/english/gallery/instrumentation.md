@@ -5,14 +5,14 @@ description = "telescope at 5100m "
 image = "/images/apex.png"
 title = "APEX telescope"
 [[information]]
-info = "Quartz"
-label = "technology"
+info = "Chajnantor Plateau (5107m altitude)"
+label = "Site"
 [[information]]
-info = "Aluminium or Gold"
-label = "metallization"
+info = "Currently ESO-MPIfR-OSO"
+label = "Operation"
 [[information]]
-info = "3 to 7 layers"
-label = "design"
+info = "12m telescope on a Vertex antenna"
+label = "Characteristics"
 
 +++
 +++

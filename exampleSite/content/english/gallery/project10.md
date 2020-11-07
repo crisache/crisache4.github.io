@@ -5,14 +5,14 @@ description = "airborne observatory"
 image = "/images/sofia_1.png"
 title = "SOFIA observatory"
 [[information]]
-info = "will go here"
-label = "Links"
+info = "Stratosphere (41000-45000 feet or 11-14km)"
+label = "Site"
 [[information]]
-info = "as of today"
-label = "Date"
+info = "NASA (via USRA) and DLR (via DSI)"
+label = "Operation"
 [[information]]
-info = "Is that"
-label = "Name"
+info = "2.5m telescope on a Boeing 747 SP"
+label = "Characteristics"
 
 +++
 View of the SOFIA airborne observatory
