@@ -6,8 +6,8 @@ banner:
   content: Astronomical instrumentation
   button:
     enable: true
-    label: About me
-    link: about
+    label: Main projects
+    link: project
 about:
   enable: true
   title: About Me
