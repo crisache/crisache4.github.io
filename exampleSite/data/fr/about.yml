@@ -1,0 +1,87 @@
+---
+about:
+  image2: images/pub_list1.jpg
+  title2: 'Publication list '
+  content2:
+  button2:
+    enable: true
+    label: Publication list as of 2021-11-01
+    link: "about/pub_list_refereed.html"
+  enable: true
+  image: images/cv.jpg
+  title: 'Curriculum Vitae '
+  content:
+  button:
+    enable: true
+    label: CV as of 2020-11-01
+    link: "about/cv2.html"
+  funfacts:
+  - icon: ion-ios-flask-outline
+    name: Completed Projects
+    count: "25"
+  - icon: ion-ios-flame-outline
+    name: Lines Of Code
+    count: "25000"
+  - icon: ion-ios-pint-outline
+    name: Publications
+    count: "98"
+  - icon: ion-ios-wineglass-outline
+    name: Awards
+    count: "10"
+  - icon: ion-ios-chatboxes-outline
+    name: h-index
+    count: "35"
+  - icon: ion-ios-body-outline
+    name: Instruments commissioned
+    count: "13"
+features:
+  enable: false
+  title: We are indepented Design & Development Agency
+  feature_item:
+  - icon: ion-ios-color-filter-outline
+    name: IOS App Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-unlocked-outline
+    name: App Secutity
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-game-controller-b-outline
+    name: Games Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-mic-outline
+    name: Animation and Editing
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-lightbulb-outline
+    name: UI/UX Design
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-star-outline
+    name: Branding
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+testimonial:
+  enable: true
+mission_vision:
+  enable: true
+  tabs:
+  - name: Instrumentation
+    content: I enjoy developing and operating astronomical instrumentation on the most extreme
+     locations on Earth and space. Since 1998, I worked with ground-based telescopes such as the
+     IRAM 30m in southern Spain, the NOEMA interferometer in the French Alps, the APEX 12m telescope
+     on the Chilean Chajnantor Plateau at 5100m, with the airborne telescope installed on a modified
+     Boeing 747 (SOFIA) and with space missions (past Herschel/HIFI and future such as Origins
+     Space Telescope).
+  - name: Observations
+    content: On the astronomical observational side, I have been involved in dozens of projects
+     in various research fields, to mention a few, studying low-mass and high-mass star formation
+     in molecular clouds, circumstellar dust around main sequence stars and the study of circumstellar
+     envelopes of evolved stars.
+  - name: Approach
+    content: In my view, instrumentalists should get involved in science projects and observations.
+     If you build an instrument, it is priceless after that to understand science project and subsequent
+     data analysis, even better carrying out the observations yourself.
+cta:
+  enable: false

@@ -1,0 +1,14 @@
+---
+about:
+  enable: true
+  image: images/company/about.jpg
+  title: 'Publications '
+  content:
+  button:
+    enable: true
+    label: CV as of 2020-11-01
+    link: "publications/pub_list_refereed.html"
+
+cta:
+  enable: true
+
