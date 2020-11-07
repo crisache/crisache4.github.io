@@ -1,4 +1,4 @@
----
++++
 bg_image = "/images/fend_fig2.jpg"
 category = "Master of Science trainee"
 description = "Development of instrumentation"
@@ -12,6 +12,7 @@ label = "Duration"
 [[information]]
 info = "Electronics/microwaves"
 label = "Topic"
+
 +++
 
 
