@@ -1,19 +1,20 @@
 ---
-title: SIS mixers
-description: 'Junctions '
-bg_image: "/images/A8.png"
-category: superconducting devices
-information:
-- label: Leader
-  info: 'D. Ma '
-- label: material
-  info: Niobium
-- label: Lithography
-  info: Optical - e-beam
-- label: Junction size
-  info: typical 1um2
+bg_image = "/images/fend_fig2.jpg"
+category = "Master of Science trainee"
+description = "Development of instrumentation"
+title = "Millimetre Instrumentation"
+[[information]]
+info = "2021"
+label = "Start date"
+[[information]]
+info = "3 to 6 months"
+label = "Duration"
+[[information]]
+info = "Electronics/microwaves"
+label = "Topic"
++++
 
----
-## SIS mixers design
 
-Clean room details
+Position details: 
+
+Contact me 

@@ -1,17 +1,21 @@
 +++
 bg_image = "/images/fend_fig2.jpg"
-category = "Filters"
-description = "Development of filter on quartz"
-title = "Dichroic filters"
+category = "Doctorate studies"
+description = "Development of instrumentation"
+title = "Millimetre Instrumentation"
 [[information]]
-info = "Quartz"
-label = "technology"
+info = "2021"
+label = "Start date"
 [[information]]
-info = "Aluminium or Gold"
-label = "metallization"
+info = "2024"
+label = "End date"
 [[information]]
-info = "3 to 7 layers"
-label = "design"
+info = "Cryogenics/microwaves"
+label = "Topic"
 
 +++
 
+
+Position details: 
+
+Contact me 
