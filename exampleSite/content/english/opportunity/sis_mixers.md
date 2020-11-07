@@ -2,7 +2,7 @@
 bg_image = "/images/fend_fig2.jpg"
 category = "Master of Science trainee"
 description = "Development of instrumentation"
-title = "Millimetre Instrumentation"
+title = "Trainee positions"
 [[information]]
 info = "2021"
 label = "Start date"
