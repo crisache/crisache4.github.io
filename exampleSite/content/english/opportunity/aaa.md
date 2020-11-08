@@ -1,7 +1,7 @@
 ---
-title: "How To Wear Bright Shoes"
+title: "PhD studies"
 date: 2018-09-24T11:07:10+06:00
-author: John Doe
+author: C. Risacher
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Company News"]
