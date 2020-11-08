@@ -28,11 +28,7 @@ nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pa
 at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
 eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
 
-.blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
+
 
 
 * hello
