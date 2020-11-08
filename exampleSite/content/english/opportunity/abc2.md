@@ -1,6 +1,6 @@
 ---
 title: "PhD Studies"
-date: 2020-11-07T11:07:10+06:00
+date: 2020-11-07T08:07:10+06:00
 author: C. Risacher
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/Fig21.jpg"

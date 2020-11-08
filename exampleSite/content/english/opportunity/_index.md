@@ -1,6 +1,6 @@
 ---
 title: Work opportunities
-description: Latest project under development
+description: at IRAM, Grenoble, France
 bg_image: "/images/grenoble.jpg"
 
 ---

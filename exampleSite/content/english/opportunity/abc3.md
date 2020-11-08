@@ -1,6 +1,6 @@
 ---
 title: "MSc Studies"
-date: 2020-11-07T12:07:10+06:00
+date: 2020-11-07T06:07:10+06:00
 author: C. Risacher
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/fend_fig2.jpg"
