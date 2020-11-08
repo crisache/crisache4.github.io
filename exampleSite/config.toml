@@ -1,4 +1,4 @@
-baseURL = "https://crisache.netlify.app"
+baseURL = "https://risacher.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -67,6 +67,7 @@ email = "c.risacher@icloud.com"
 google_analitycs_id = ""
 location = "Grenoble, France"
 logo = "images/logo.png"
+logo_width = "150px"
 phone = "+33 (4) 7682 4932"
 multi_author = false
 [params.gmap]
@@ -120,3 +121,8 @@ link = "https://www.researchgate.net/profile/Christophe_Risacher"
 [[params.social]]
 icon = "ion-social-tux"
 link = "https://github.com/crisache/"
+############################### widgets #################################
+
+[params.widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+
