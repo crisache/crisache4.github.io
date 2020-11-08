@@ -12,7 +12,7 @@ type: "post"
 ---
 
 
-Interested in doing long time trining studies in our group ? 
+Interested in doing long time training studies in our group ? 
 
 Contact me, there are number of fields of research. 
 
