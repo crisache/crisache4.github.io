@@ -67,7 +67,7 @@ email = "c.risacher@icloud.com"
 google_analitycs_id = ""
 location = "Grenoble, France"
 logo = "images/logo1.png"
-logo_width = "100px"
+logo_width = "80px"
 phone = "+33 (4) 7682 4932"
 multi_author = false
 [params.gmap]
