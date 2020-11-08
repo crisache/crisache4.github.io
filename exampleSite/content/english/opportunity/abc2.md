@@ -1,5 +1,5 @@
 ---
-title: "Doctorate studies"
+title: "Master of science trainee"
 date: 2020-11-10T12:00:10+06:00
 author: C. Risacher
 image : "images/blog/blog-post-1.jpg"
@@ -11,7 +11,8 @@ draft: false
 type: "post"
 ---
 
-Interested in doing PhD studies in our group ? 
+
+Interested in doing long time trining studies in our group ? 
 
 Contact me, there are number of fields of research. 
 
@@ -24,9 +25,8 @@ Contact me, there are number of fields of research.
 ```
 
 
-* PhD 1: 
-* PhD 2: 
+* Pos 1: 
+* Pos 2: 
 
-1. PhD 1: 
-2. PhD 2: 
-
+1. Pos 1: 
+2. Pos 2: 
